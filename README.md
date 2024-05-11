@@ -1,0 +1,1 @@
+# Busca-em-documentos-usando-embeddings-e-Gemini-API
